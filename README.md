@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaharadini
-- 👀 I’m interested in C++, C, Java programing, apps mobile, Php javascript, css html
+- 👀 I’m interested in C++, C, Java programing, apps mobile, Php, javascript, css html
 - 🌱 I’m currently learning Java programing
 - 📫 How to reach me ...
 
